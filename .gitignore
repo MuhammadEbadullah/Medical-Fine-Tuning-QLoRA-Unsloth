@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+medical_llama_lora/
+outputs/checkpoints/
+*.zip
