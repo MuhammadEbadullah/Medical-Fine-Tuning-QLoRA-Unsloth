@@ -97,7 +97,7 @@ The images above are captures of the output text from the notebook run. The full
 To use a different base model such as DeepSeek-R1, change the `model_name` in the model loading cell (for example `unsloth/DeepSeek-R1-Distill-Llama-8B`).
 
 ## About the adapter
-The adapter folder is about 93 MB, so it is not stored in this repository. [ADD A LINK HERE if you upload it to Hugging Face or Google Drive, otherwise delete this line.]
+The adapter folder is about 93 MB, so it is not stored in this repository.
 
 ## Limitations
 - Only 5,000 samples and 1 epoch, because of the free Colab limits.
